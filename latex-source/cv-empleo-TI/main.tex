@@ -1,0 +1,54 @@
+
+\documentclass[letterpaper,11pt]{article}
+
+% Choose bibliography style for formatting list of publications
+\usepackage[style=ieee,url=false,doi=false,maxbibnames=99,sorting=ydnt,dashed=false]{biblatex}
+\bibliography{papers}
+
+
+% Choose theme, e.g. black, RedViolet, ForestGreen, MidnightBlue
+\def\theme{MidnightBlue}
+
+% More predefined colors can be found in 
+% https://en.wikibooks.org/wiki/LaTeX/Colors
+% Example photograph taken from Wikimedia Commons
+% https://commons.wikimedia.org/wiki/File:Kiara_Krit_passport.jpg
+
+\usepackage{simplecv}
+
+\boldname{Sánchez Juárez}{José Emilio}{J.E.}
+
+\begin{document}
+
+% Heading
+\headinginline{José Emilio Sánchez Juárez}{
+     Website: \website{emilio-j4n3z.github.io} \\
+     Email: \email{emilinho18@gmail.com} \\
+     LinkedIn: \linkedin{linkedin.com/in/josé-emilio-sánchez} \\
+     GitHub: \github{Emilio-J4n3z}
+}
+
+% \headingphoto{Name Surname}{
+%     Website: \website{example.com} \\ 
+%     Email: \email{example@example.edu} \\
+%     LinkedIn: \linkedin{name-surname} \\
+%     GitHub: \github{example}
+% }{photo.jpg}
+
+% Professional Summary
+\import{sections/}{summary.tex}
+
+% Page One
+\import{sections/}{education.tex}
+\sidebyside
+    {\import{sections/}{skills.tex}}
+    {\import{sections/}{languages.tex}}
+    
+\import{sections/}{experience.tex}
+\import{sections/}{teaching.tex}
+\import{sections/}{achievements.tex}
+\import{sections/}{extracurricular.tex}
+\import{sections/}{professional-development.tex}
+\import{sections/}{research-interests.tex}
+
+\end{document}
