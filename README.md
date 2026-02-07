@@ -6,7 +6,7 @@ Estudiante de Ingeniería en Sistemas Computacionales especializado en Cibersegu
 ## 📄 Archivos Disponibles
 
 ### PDF (Listo para descarga)
-- [CV_Jose_Emilio_Sanchez.pdf](pdf-versions/CV_Jose_Emilio_Sanchez.pdf)
+- [CV_Jose_Emilio_Sanchez.pdf](pdf-versions/Jose_Emilio_Sanchez_CV.pdf)
 - [Carta_Presentacion.pdf](pdf-versions/Carta_Presentacion.pdf)
 
 ### LaTeX Source
@@ -15,7 +15,7 @@ Estudiante de Ingeniería en Sistemas Computacionales especializado en Cibersegu
 
 ## 🔗 Links Directos de Descarga
 
-**Descargar CV:** [Descargar PDF](https://github.com/TU-USUARIO/curriculum-vitae/raw/main/pdf-versions/CV_Jose_Emilio_Sanchez.pdf)
+**Descargar CV:** [Descargar PDF](https://github.com/)
 
 **Descargar Carta:** [Descargar PDF](https://github.com/TU-USUARIO/curriculum-vitae/raw/main/pdf-versions/Carta_Presentacion.pdf)
 
