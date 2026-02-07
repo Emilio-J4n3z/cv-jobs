@@ -9,13 +9,24 @@ Estudiante de Ingeniería en Sistemas Computacionales especializado en Cibersegu
 - [CV_Jose_Emilio_Sanchez.pdf](pdf-versions/Jose_Emilio_Sanchez_CV.pdf)
 - [Carta_Presentacion.pdf](pdf-versions/carta_presentacion.pdf)
 
+### Certificados
+- [Certificado](certificados/certifoicado.pdf)
+
 ### LaTeX Source
-- [cv-source.tex](latex-source/template.tex)
-- [carta-presentacion.tex](latex-source/carta-presentacion.tex)
+- **CV General:** [template.tex](latex-source/Jose_Emilio_Sanchez/template.tex)
+- **Carta de Presentación:** [carta-presentacion.tex](latex-source/carta-presentacion.tex)
 
 ## 🔗 Links Directos de Descarga
 
-**Descargar CV:** [Descargar PDF](https://github.com/Emilio-J4n3z/cv-jobs/blob/main/pdf-versions/Jose_Emilio_Sanchez_CV.pdf)
+**CV General:**  
+[📥 Descargar PDF](https://github.com/Emilio-J4n3z/cv-jobs/raw/main/pdf-versions/Jose_Emilio_Sanchez_CV.pdf)
+
+**Carta de Presentación:**  
+[📥 Descargar PDF](https://github.com/Emilio-J4n3z/cv-jobs/raw/main/pdf-versions/carta_presentacion.pdf)
+
+**Certificado:**  
+[📥 Descargar PDF](https://github.com/Emilio-J4n3z/cv-jobs/raw/main/certificados/certifoicado.pdf)
+
 
 **Descargar Carta:** [Descargar PDF](https://github.com/TU-USUARIO/curriculum-vitae/raw/main/pdf-versions/carta_presentacion.pdf)
 
